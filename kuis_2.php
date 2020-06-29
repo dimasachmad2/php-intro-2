@@ -27,6 +27,7 @@ function hitung($string_data){
     }
     echo $string_data." = ".$jumlah;
     echo "<br>";
+    echo "<br>";
 }
 
 //
